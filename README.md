@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Jemima
 
-<!--
-**jemima-java/jemima-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm currently building my skills in **Java, Git and GitHub** through personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+
+- ☕ Java
+- 🔗 Git & GitHub
+- 🗄️ SQL
+- 💡 Object-Oriented Programming
+
+## 🚀 My projects
+
+### ☕ HelloJemima
+My first Java project, created to practice Java fundamentals and Git/GitHub.
+
+👉 [View the project](https://github.com/jemima-java/HelloJemima)
+
+## 🎯 My goal
+
+I'm building my technical skills step by step and creating projects that demonstrate my progress.
+
+## 📚 Learning journey
+
+This GitHub profile documents my journey into software development.
+
+---
+
+⭐ Thank you for visiting my profile!
